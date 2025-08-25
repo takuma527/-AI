@@ -152,3 +152,189 @@ SyntaxError: Invalid regular expression: missing /
 2025-08-25T02:58:00: 🛡️ セキュリティ機能: 認証, レート制限, CSRF保護, XSS防止
 2025-08-25T02:58:00: 📊 Excel専門AI: 準備完了（デモ版）
 2025-08-25T02:58:00: 💬 WebSocket: 有効
+2025-08-25T03:04:34: 🔐 セキュアExcelチャットボット WebApp起動: http://localhost:5000
+2025-08-25T03:04:34: 🛡️ セキュリティ機能: 認証, レート制限, CSRF保護, XSS防止
+2025-08-25T03:04:34: 📊 Excel専門AI: 準備完了（Webアプリ版）
+2025-08-25T03:04:34: 💬 WebSocket: 有効
+2025-08-25T03:04:34: 🎯 デモアカウント: demo / demo123
+/home/user/webapp/backend/src/middleware/security.js:165
+    /\.\.\\\/g,
+    ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+    at Module._compile (node:internal/modules/cjs/loader:1501:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at Hook._require.Module.require (/home/user/webapp/backend/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/user/webapp/backend/src/server.js:20:29)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+/home/user/webapp/backend/src/middleware/security.js:165
+    /\.\.\\\/g,
+    ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+    at Module._compile (node:internal/modules/cjs/loader:1501:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at Hook._require.Module.require (/home/user/webapp/backend/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/user/webapp/backend/src/server.js:20:29)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+/home/user/webapp/backend/src/middleware/security.js:165
+    /\.\.\\\/g,
+    ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+    at Module._compile (node:internal/modules/cjs/loader:1501:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at Hook._require.Module.require (/home/user/webapp/backend/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/user/webapp/backend/src/server.js:20:29)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+/home/user/webapp/backend/src/middleware/security.js:165
+    /\.\.\\\/g,
+    ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+    at Module._compile (node:internal/modules/cjs/loader:1501:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at Hook._require.Module.require (/home/user/webapp/backend/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/user/webapp/backend/src/server.js:20:29)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+/home/user/webapp/backend/src/middleware/security.js:165
+    /\.\.\\\/g,
+    ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+    at Module._compile (node:internal/modules/cjs/loader:1501:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at Hook._require.Module.require (/home/user/webapp/backend/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/user/webapp/backend/src/server.js:20:29)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+/home/user/webapp/backend/src/middleware/security.js:165
+    /\.\.\\\/g,
+    ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+    at Module._compile (node:internal/modules/cjs/loader:1501:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at Hook._require.Module.require (/home/user/webapp/backend/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/user/webapp/backend/src/server.js:20:29)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+/home/user/webapp/backend/src/middleware/security.js:165
+    /\.\.\\\/g,
+    ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+    at Module._compile (node:internal/modules/cjs/loader:1501:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at Hook._require.Module.require (/home/user/webapp/backend/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/user/webapp/backend/src/server.js:20:29)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+/home/user/webapp/backend/src/middleware/security.js:165
+    /\.\.\\\/g,
+    ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+    at Module._compile (node:internal/modules/cjs/loader:1501:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at Hook._require.Module.require (/home/user/webapp/backend/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/user/webapp/backend/src/server.js:20:29)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+/home/user/webapp/backend/src/middleware/security.js:165
+    /\.\.\\\/g,
+    ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+    at Module._compile (node:internal/modules/cjs/loader:1501:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at Hook._require.Module.require (/home/user/webapp/backend/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/user/webapp/backend/src/server.js:20:29)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+/home/user/webapp/backend/src/middleware/security.js:165
+    /\.\.\\\/g,
+    ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+    at Module._compile (node:internal/modules/cjs/loader:1501:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at Hook._require.Module.require (/home/user/webapp/backend/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/user/webapp/backend/src/server.js:20:29)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+2025-08-25T03:18:36: Error: CORS policy violation
+2025-08-25T03:18:47: Error: CORS policy violation
+2025-08-25T03:18:49: Error: CORS policy violation
+2025-08-25T03:18:50: Error: CORS policy violation
+2025-08-25T03:18:50: Error: CORS policy violation
+2025-08-25T03:18:50: Error: CORS policy violation
+2025-08-25T03:18:50: Error: CORS policy violation
+2025-08-25T03:19:02: Error: CORS policy violation
+2025-08-25T03:19:03: Error: CORS policy violation
+2025-08-25T03:19:11: Error: CORS policy violation
+2025-08-25T03:19:12: Error: CORS policy violation
+2025-08-25T03:19:12: Error: CORS policy violation
+2025-08-25T03:19:12: Error: CORS policy violation
+2025-08-25T03:19:25: Error: CORS policy violation
+2025-08-25T03:19:25: Error: CORS policy violation
+2025-08-25T03:19:26: Error: CORS policy violation
+2025-08-25T03:19:26: Error: CORS policy violation
+2025-08-25T03:22:32: 🔐 セキュアExcelチャットボット WebApp起動: http://localhost:5000
+2025-08-25T03:22:32: 🛡️ セキュリティ機能: 認証, レート制限, CSRF保護, XSS防止
+2025-08-25T03:22:32: 📊 Excel専門AI: 準備完了（Webアプリ版）
+2025-08-25T03:22:32: 💬 WebSocket: 有効
+2025-08-25T03:22:32: 🎯 デモアカウント: demo / demo123
+2025-08-25T03:23:02: 🔐 セキュアExcelチャットボット WebApp起動: http://localhost:5000
+2025-08-25T03:23:02: 🛡️ セキュリティ機能: 認証, レート制限, CSRF保護, XSS防止
+2025-08-25T03:23:02: 📊 Excel専門AI: 準備完了（Webアプリ版）
+2025-08-25T03:23:02: 💬 WebSocket: 有効
+2025-08-25T03:23:02: 🎯 デモアカウント: demo / demo123
+2025-08-25T03:23:06: ログイン試行: { username: 'demo', password: 'demo123' }
+2025-08-25T03:23:06: ログイン成功: demo user
+2025-08-25T03:23:34: ログイン試行: { username: 'demo', password: 'demo123' }
+2025-08-25T03:23:34: ログイン成功: demo user
