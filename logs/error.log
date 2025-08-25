@@ -1,0 +1,45 @@
+2025-08-25T02:54:05: /home/user/webapp/backend/src/server-simple.js:35
+2025-08-25T02:54:05:       defaultSrc: [\"'self'\"],
+2025-08-25T02:54:05:                    ^
+2025-08-25T02:54:05: 
+2025-08-25T02:54:05: SyntaxError: Invalid or unexpected token
+2025-08-25T02:54:05:     at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+2025-08-25T02:54:05:     at Module._compile (node:internal/modules/cjs/loader:1501:20)
+2025-08-25T02:54:05:     at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+2025-08-25T02:54:05:     at Module.load (node:internal/modules/cjs/loader:1275:32)
+2025-08-25T02:54:05:     at Module._load (node:internal/modules/cjs/loader:1096:12)
+2025-08-25T02:54:05:     at Object.<anonymous> (/home/user/webapp/backend/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-08-25T02:54:05:     at Module._compile (node:internal/modules/cjs/loader:1529:14)
+2025-08-25T02:54:05:     at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+2025-08-25T02:54:05:     at Module.load (node:internal/modules/cjs/loader:1275:32)
+2025-08-25T02:54:05:     at Module._load (node:internal/modules/cjs/loader:1096:12)
+2025-08-25T02:54:06: /home/user/webapp/backend/src/server-simple.js:35
+2025-08-25T02:54:06:       defaultSrc: [\"'self'\"],
+2025-08-25T02:54:06:                    ^
+2025-08-25T02:54:06: 
+2025-08-25T02:54:06: SyntaxError: Invalid or unexpected token
+2025-08-25T02:54:06:     at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+2025-08-25T02:54:06:     at Module._compile (node:internal/modules/cjs/loader:1501:20)
+2025-08-25T02:54:06:     at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+2025-08-25T02:54:06:     at Module.load (node:internal/modules/cjs/loader:1275:32)
+2025-08-25T02:54:06:     at Module._load (node:internal/modules/cjs/loader:1096:12)
+2025-08-25T02:54:06:     at Object.<anonymous> (/home/user/webapp/backend/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-08-25T02:54:06:     at Module._compile (node:internal/modules/cjs/loader:1529:14)
+2025-08-25T02:54:06:     at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+2025-08-25T02:54:06:     at Module.load (node:internal/modules/cjs/loader:1275:32)
+2025-08-25T02:54:06:     at Module._load (node:internal/modules/cjs/loader:1096:12)
+2025-08-25T02:54:08: /home/user/webapp/backend/src/server-simple.js:35
+2025-08-25T02:54:08:       defaultSrc: [\"'self'\"],
+2025-08-25T02:54:08:                    ^
+2025-08-25T02:54:08: 
+2025-08-25T02:54:08: SyntaxError: Invalid or unexpected token
+2025-08-25T02:54:08:     at wrapSafe (node:internal/modules/cjs/loader:1472:18)
+2025-08-25T02:54:08:     at Module._compile (node:internal/modules/cjs/loader:1501:20)
+2025-08-25T02:54:08:     at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+2025-08-25T02:54:08:     at Module.load (node:internal/modules/cjs/loader:1275:32)
+2025-08-25T02:54:08:     at Module._load (node:internal/modules/cjs/loader:1096:12)
+2025-08-25T02:54:08:     at Object.<anonymous> (/home/user/webapp/backend/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-08-25T02:54:08:     at Module._compile (node:internal/modules/cjs/loader:1529:14)
+2025-08-25T02:54:08:     at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+2025-08-25T02:54:08:     at Module.load (node:internal/modules/cjs/loader:1275:32)
+2025-08-25T02:54:08:     at Module._load (node:internal/modules/cjs/loader:1096:12)

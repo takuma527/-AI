@@ -1,0 +1,33 @@
+{
+  "name": "secure-excel-chatbot",
+  "version": "1.0.0",
+  "description": "セキュリティを重視したExcel専門チャットボット",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run backend:dev\" \"npm run frontend:dev\"",
+    "start": "concurrently \"npm run backend:start\" \"npm run frontend:start\"",
+    "backend:dev": "cd backend && npm run dev",
+    "backend:start": "cd backend && npm start",
+    "frontend:dev": "cd frontend && npm run dev",
+    "frontend:start": "cd frontend && npm run build && serve -s build -p 3000",
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "test": "cd backend && npm test && cd ../frontend && npm test",
+    "build": "cd frontend && npm run build",
+    "db:init": "cd backend && npm run db:init"
+  },
+  "keywords": [
+    "excel",
+    "chatbot",
+    "security",
+    "ai",
+    "typescript",
+    "react",
+    "nodejs"
+  ],
+  "author": "AI Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "serve": "^14.2.0"
+  }
+}
