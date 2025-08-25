@@ -338,3 +338,13 @@ SyntaxError: Invalid regular expression: missing /
 2025-08-25T03:23:06: ログイン成功: demo user
 2025-08-25T03:23:34: ログイン試行: { username: 'demo', password: 'demo123' }
 2025-08-25T03:23:34: ログイン成功: demo user
+2025-08-25T03:32:59: 🔐 セキュアExcelチャットボット WebApp起動: http://localhost:5000
+2025-08-25T03:32:59: 🛡️ セキュリティ機能: 認証, レート制限, CSRF保護, XSS防止
+2025-08-25T03:32:59: 📊 Excel専門AI: 準備完了（Webアプリ版）
+2025-08-25T03:32:59: 💬 WebSocket: 有効
+2025-08-25T03:32:59: 🎯 デモアカウント: demo / demo123
+2025-08-25T03:33:38: 🔐 セキュアExcelチャットボット WebApp起動: http://localhost:5000
+2025-08-25T03:33:38: 🛡️ セキュリティ機能: 認証, レート制限, CSRF保護, XSS防止
+2025-08-25T03:33:38: 📊 Excel専門AI: 準備完了（Webアプリ版）
+2025-08-25T03:33:38: 💬 WebSocket: 有効
+2025-08-25T03:33:38: 🎯 デモアカウント: demo / demo123
